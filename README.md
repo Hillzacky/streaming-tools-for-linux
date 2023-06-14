@@ -6,6 +6,12 @@
 ```
 git clone https://github.com/Hillzacky/streaming-tools-for-linux.git
 ```
+```
+wget --no-check-certificate --content-disposition https://github.com/Hillzacky/streaming-tools-for-linux
+```
+```
+curl -LJO https://github.com/Hillzacky/streaming-tools-for-linux
+```
 ### install
 ```
 cd streaming-tools-for-linux && sh ./install.sh
