@@ -53,3 +53,6 @@ case $OS in
         exit 1
         ;;
 esac
+
+mkdir input
+mkdir output
