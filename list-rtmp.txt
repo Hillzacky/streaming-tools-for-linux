@@ -1,0 +1,47 @@
+Facebook Pages: rtmps://live-api-s.facebook.com:443/rtmp/STREAM_KEY
+Facebook Groups: rtmps://live-api-s.facebook.com:443/rtmp/STREAM_KEY
+YouTube: rtmp://a.rtmp.youtube.com/live2/STREAM_KEY
+Twitch: rtmp://live.twitch.tv/app/STREAM_KEY
+Twitter Periscope: rtmps://live.pscp.tv:443/x/STREAM_KEY
+Dlive: rtmp://dlive-live.dlive.tv/live/STREAM_KEY
+Vimeo: rtmp://us-east-1-live-publish.vimeo.com:443/app/STREAM_KEY
+Dailymotion: rtmp://publish.dailymotion.com/publish-dm/xSTREAM_KEY
+Nimo TV: rtmp://live-hk.nimo.tv/live-hk/STREAM_KEY
+Mixcloud: rtmp://live.mixcloud.com:1935/live/STREAM_KEY
+Major League Gaming: rtmp://live-api.majorleaguegaming.com:1935/STREAM_KEY
+Mobcrush: rtmp://live.mobcrush.com/app/STREAM_KEY
+Steam: rtmp://live.steampowered.com/app/STREAM_KEY
+VK Live: rtmp://vkuservideo.net:443/live/STREAM_KEY
+Restream io: rtmp://live.restream.io/live/STREAM_KEY
+Switchboard Live: rtmp://ingest.switchboard.live/app/STREAM_KEY
+Castr.io: rtmp://ingest.castr.io/live/STREAM_KEY
+Livestream: rtmp://rtmp-api-cdn.livestream.com:80/livestream/STREAM_KEY
+Picarto TV: rtmp://live.picarto.tv:1935/picarto/STREAM_KEY
+Nood: rtmp://noodvideo.com:1935/live/STREAM_KEY
+Vimm.tv: rtmp://live.vimm.tv/app/STREAM_KEY
+LOCO: rtmp://live-api.loco.gg:1935/live/STREAM_KEY
+GoodGame.ru: rtmp://stream.goodgame.ru:1945/app/STREAM_KEY
+SportsCastr: rtmp://ingest.sportscastr.com/live/STREAM_KEY
+Aparat: rtmp://live.aparat.com:443/live/STREAM_KEY
+Loola tv: rtmp://ingest.loola.tv:1935/live/STREAM_KEY
+Web.TV: rtmp://stream.web.tv/live/STREAM_KEY
+Younow: rtmp://younowlive.com:1935/YouNow/STREAM_KEY
+Tele2: rtmp://live.tele2.com/live/STREAM_KEY
+Vaughn Live: rtmp://vaughnlive.tv:1935/live/STREAM_KEY
+Breakers TV: rtmp://breakers.tv:1935/live/STREAM_KEY
+Vapers TV: rtmp://vaperstv-wowza.global.ssl.fastly.net/live/STREAM_KEY
+Boomstream: rtmp://stream.boomstream.com/live/STREAM_KEY
+Medirix Live Sports: rtmp://live.medirix.co.kr/live/STREAM_KEY
+FC2Live: rtmp://live.fc2.com/live/STREAM_KEY
+BiliBili: rtmp://txy.live-send.acg.tv/live-txy/STREAM_KEY
+Trovo: rtmp://live.trovo.live/live/STREAM_KEY
+Nonolive: rtmp://cnrtmp.nonolive.com/live/STREAM_KEY
+NaverTv: rtmp://live-api.tv.naver.com/live/STREAM_KEY
+VLive.tv: rtmp://vlive.tv:1935/vlive/vlive/STREAM_KEY
+GameTips TV: rtmp://gametips.live:1935/live/STREAM_KEY
+AfreecaTV: rtmp://live.afreecatv.com:1935/app/STREAM_KEY
+OK.ru: rtmp://live-odk.gcdn.co/live/STREAM_KEY
+KakaoTV: rtmp://edge.kakaotv.live:1935/live/STREAM_KEY
+Douyu: rtmp://douyulive.com:8500/live/STREAM_KEY
+Huya: rtmp://live.huya.com:1935/live/STREAM_KEY
+Zhanqi.tv: rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/STREAM_KEY
