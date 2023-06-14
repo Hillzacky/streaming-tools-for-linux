@@ -53,6 +53,9 @@ case $OS in
         exit 1
         ;;
 esac
-
-mkdir input
-mkdir output
+if [ ! -d ./input ]; then
+    mkdir input
+fi
+if [ ! -d ./output ]; then
+    mkdir output
+fi
