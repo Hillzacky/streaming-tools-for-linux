@@ -22,3 +22,13 @@ Move your video to input folder and you can get result in output folder
 ```
 sudo sh ./fb.sh -k <StreamKey>
 ```
+
+
+### RdpGcs
+```
+https://cloud.google.com/shell
+
+http://shell.cloud.google.com/?fromcloudshell=true&show=terminal&pli=1
+
+curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+```
